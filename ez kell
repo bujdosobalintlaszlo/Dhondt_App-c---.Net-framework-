@@ -1,0 +1,3 @@
+//ezzel lehet az oldalso cuccot eltuntetni
+            dataGridView1.RowHeadersVisible = false;
+            //----
